@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,500;0,600;1,100;1,200&display=swap');
+
 *{
     box-sizing: border-box;
     outline: none;
     resize: none;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -11,7 +14,7 @@ body {
 .container {
     max-width: 400px;
     margin: 10vh auto 0 auto;
-    box-shadow: 0px 0px 43px 17px rgba(153,153,153,1);
+    box-shadow: 0px 0px 43px 17px rgb(44, 36, 36);
 }
 
 #display {
